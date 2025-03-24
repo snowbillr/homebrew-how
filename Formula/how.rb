@@ -1,8 +1,8 @@
 class How < Formula
   desc "CLI utility for helping to construct CLI commands for different tasks"
   homepage "https://github.com/snowbillr/how/"
-  url "https://github.com/snowbillr/how/releases/download/v0.2.0/how-0.2.0.gem"
-  sha256 "8f2e449c9b480d1d6b276065397eb8ca8fdf9e4b9abef31abb01b76835e28fb2"
+  url "https://github.com/snowbillr/how/releases/download/v0.3.0/how-0.3.0.gem"
+  sha256 "ddfd747f41ffbee536e6c214ac82cd378e2bd3603562394d9e75fccf92592b9c"
   license "MIT"
 
   depends_on "ruby"
