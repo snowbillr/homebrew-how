@@ -10,6 +10,6 @@ brew install how
 ## Usage
 
 ```
-$> how config
-$> how ls show all files starting with .
+how config
+how ls show all files starting with .
 ```
